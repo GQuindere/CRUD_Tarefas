@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\CRUD Tarefas.exe
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\CRUD Tarefas.deps.json
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\CRUD Tarefas.runtimeconfig.json
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\CRUD Tarefas.dll
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\CRUD Tarefas.pdb
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.AssemblyInfo.cs
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.CRUD Tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD Tarefas.props
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Tarefas.props
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD Tarefas.props
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\scopedcss\bundle\CRUD Tarefas.styles.css
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.csproj.CopyComplete
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.dll
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\refint\CRUD Tarefas.dll
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.pdb
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\CRUD Tarefas.genruntimeconfig.cache
+C:\Users\User\Desktop\CRUD Tarefas App\CRUD Tarefas\obj\Debug\net6.0\ref\CRUD Tarefas.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\CRUD Tarefas.exe
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\CRUD Tarefas.deps.json
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\CRUD Tarefas.runtimeconfig.json
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\CRUD Tarefas.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\CRUD Tarefas.pdb
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.AssemblyInfo.cs
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\staticwebassets\msbuild.CRUD Tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD Tarefas.props
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Tarefas.props
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD Tarefas.props
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\scopedcss\bundle\CRUD Tarefas.styles.css
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.csproj.CopyComplete
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\refint\CRUD Tarefas.dll
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.pdb
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\CRUD Tarefas.genruntimeconfig.cache
+C:\Users\User\Desktop\CRUD_Tarefas_App\CRUDTarefas\obj\Debug\net6.0\ref\CRUD Tarefas.dll

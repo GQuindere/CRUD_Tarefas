@@ -1,0 +1,1 @@
+using System.ComponentModel.DataAnnotations;namespace CRUDTarefas{    public class Status    {        public int Id { get; set; }        [StringLength(20)]         public string StatusOpcao { get; set; } = string.Empty;    }}
